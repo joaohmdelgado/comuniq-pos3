@@ -1,16 +1,22 @@
-# flutter_app
+# Comuniq-Pos  flutter_app
 
-A new Flutter application.
+Título: Aplicativo Comuniq-Pós.
 
-## Getting Started
+App em desenvolvimento para o projeto da Disciplina Fundamentos de Informática Aplicada da UFRPE/PPGIA.
 
-This project is a starting point for a Flutter application.
+Orientador: Gilberto A. de A. Cysneiros Filho
+Aluno: João Henrique de Medeiros Delgado
 
-A few resources to get you started if this is your first Flutter project:
+Abordagem: Neste aplicativo o aluno ou professor cadastrado utilizando a senha de serviços integrados do SIGA poderá visualizar as informações divulgadas nos sites dos programas de pós-graduação da UFRPE e receber notificações de evento, notícias e comunicados do programa onde estiver matriculado de acordo com o seu perfil e interesse. Este aplicativo auxiliará também os usuários a realizarem as suas tarefas ao oferecer uma ferramenta de gestão de tarefas integrada.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Metodologia: Construir um aplicativo que interaja com a página dos programas de pós-graduação da UFRPE consumindo via WebService diversas informações disponibilizadas pelo site e ofereça uma ferramenta de gestão de tarefas.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Funcionalidades:
+
+•	Recebimento de notificações e notícias e eventos
+
+•	Acompanhamento da situação de bolsa
+
+•	Acompanhamento de Disciplinas
+
+•	Todolist de atividades
