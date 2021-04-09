@@ -21,3 +21,15 @@ Funcionalidades:
 •	Acompanhamento de Disciplinas
 
 •	Todolist de atividades
+
+<h2>Telas</h2>
+
+<p align="center">
+  <img src="http://matrizppgs.ufrpe.br/sites/default/files/comunic-pos/foto1.png" width="300" title="hover text">
+  <img src="http://matrizppgs.ufrpe.br/sites/default/files/comunic-pos/foto2.png" width="300" title="hover text">
+  <img src="http://matrizppgs.ufrpe.br/sites/default/files/comunic-pos/foto3.png" width="300" title="hover text">
+</p>
+
+<h2>Árvore</h2>
+
+![alt text](http://matrizppgs.ufrpe.br/sites/default/files/comunic-pos/arvore.png)
