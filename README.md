@@ -24,6 +24,10 @@ App em desenvolvimento para o projeto da Disciplina Fundamentos de Informática 
 
 •	Todolist de atividades
 
+<h2>Link Landpage</h2>
+
+<a target="a_blank" href="http://matrizppgs.ufrpe.br/sites/default/files/comunic-pos/landpage/">acesse</a>
+
 <h2>Telas</h2>
 
 <p align="center">
