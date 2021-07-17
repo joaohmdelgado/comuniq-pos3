@@ -1,16 +1,41 @@
-# flutter_app
+# Comuniq-Pos  flutter_app
 
-A new Flutter application.
+<img src="http://matrizppgs.ufrpe.br/sites/default/files/comunic-pos/Comuniq-Pós.png" width="300" title="hover text">
 
-## Getting Started
+<b>Título:</b> Aplicativo Comuniq-Pós.
 
-This project is a starting point for a Flutter application.
+App em desenvolvimento para o projeto da Disciplina Fundamentos de Informática Aplicada da UFRPE/PPGIA.
 
-A few resources to get you started if this is your first Flutter project:
+<b>Orientador:</b> Gilberto A. de A. Cysneiros Filho
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<b>Aluno:</b> João Henrique de Medeiros Delgado
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<b>Abordagem:</b> Neste aplicativo o aluno ou professor cadastrado utilizando a senha de serviços integrados do SIGA poderá visualizar as informações divulgadas nos sites dos programas de pós-graduação da UFRPE e receber notificações de evento, notícias e comunicados do programa onde estiver matriculado de acordo com o seu perfil e interesse. Este aplicativo auxiliará também os usuários a realizarem as suas tarefas ao oferecer uma ferramenta de gestão de tarefas integrada.
+
+<b>Metodologia:</b> Construir um aplicativo que interaja com a página dos programas de pós-graduação da UFRPE consumindo via WebService diversas informações disponibilizadas pelo site e ofereça uma ferramenta de gestão de tarefas.
+
+<b>Funcionalidades:</b>
+
+•	Recebimento de notificações e notícias e eventos
+
+•	Acompanhamento da situação de bolsa
+
+•	Acompanhamento de Disciplinas
+
+•	Todolist de atividades
+
+<h2>Link Landpage</h2>
+
+<a target="a_blank" href="http://matrizppgs.ufrpe.br/sites/default/files/comunic-pos/landpage/">acesse</a>
+
+<h2>Telas</h2>
+
+<p align="center">
+  <img src="http://matrizppgs.ufrpe.br/sites/default/files/comunic-pos/foto1.png" width="300" title="hover text">
+  <img src="http://matrizppgs.ufrpe.br/sites/default/files/comunic-pos/foto2.png" width="300" title="hover text">
+  <img src="http://matrizppgs.ufrpe.br/sites/default/files/comunic-pos/foto3.png" width="300" title="hover text">
+</p>
+
+<h2>Árvore</h2>
+
+![alt text](http://matrizppgs.ufrpe.br/sites/default/files/comunic-pos/arvore.png)
